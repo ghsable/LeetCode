@@ -1,0 +1,9 @@
+# Shell
+Solutions of [LeetCode](https://leetcode.com/) [Problems](https://leetcode.com/problemset/all/)/[Shell](https://leetcode.com/problemset/shell/).
+
+| #    | Title                                                                     | Solution                                                       | Difficulty | Solutions                                                                                                         |
+| :--- | :---                                                                      | :---                                                           | :---       | :---                                                                                                              |
+| 192  | [Word Frequency](https://leetcode.com/problems/word-frequency/)           | [📝](https://leetcode.com/problems/word-frequency/solution/)   | Medium     | [192_WordFrequency.sh](https://github.com/ghsable/LeetCode/blob/main/Problems/Shell/192_WordFrequency.sh)         |
+| 193  | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [📝](https://leetcode.com/problems/solution/)                  | Easy       | [193_ValidPhoneNumbers.sh](https://github.com/ghsable/LeetCode/blob/main/Problems/Shell/193_ValidPhoneNumbers.sh) |
+| 194  | [Transpose File](https://leetcode.com/problems/transpose-file/)           | [📝](https://leetcode.com/problems/solution/)                  | Medium     | [194_TransposeFile.sh](https://github.com/ghsable/LeetCode/blob/main/Problems/Shell/194_TransposeFile.sh)         |
+| 195  | [Tenth Line](https://leetcode.com/problems/tenth-line/)                   | [📝](https://leetcode.com/problems/solution/)                  | Easy       | [195_TenthLine.sh](https://github.com/ghsable/LeetCode/blob/main/Problems/Shell/195_TenthLine.sh)                 |
