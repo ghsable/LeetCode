@@ -1,4 +1,4 @@
-# Shell
+# Algorithms
 Solutions of [LeetCode](https://leetcode.com/) [Problems](https://leetcode.com/problemset/all/)/[Algorithms](https://leetcode.com/problemset/algorithms/).
 
 | #    | Title                                                         | Solution                                                    | Difficulty | Solutions                                                                                                      |
