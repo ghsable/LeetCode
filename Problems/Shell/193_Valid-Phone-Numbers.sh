@@ -20,7 +20,4 @@
 #     (123) 456-7890
 # 
 # Read from the file file.txt and output all valid phone numbers to stdout.
-
-#!/bin/sh
-
 grep -P '^(\d{3}-|\(\d{3}\) )\d{3}-\d{4}$' file.txt
